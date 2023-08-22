@@ -1,0 +1,15 @@
+Django==3.1a1
+django-crispy-forms==1.9.1
+django-facebook==6.0.3
+facebook-sdk==3.1.0
+psycopg2==2.8.5
+django-heroku
+gunicorn
+whitenoise
+fire==0.3.1
+textblob==0.15.3
+django-bootstrap4==2.0.0
+beautifulsoup4==4.9.1
+django-bootstrap-datepicker-plus==3.0.5
+scikit-learn==0.22.1
+pandas==1.0.1

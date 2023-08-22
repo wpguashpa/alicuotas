@@ -1,0 +1,4 @@
+"web: gunicorn dj-project.wsgi" 
+web: python manage.py runserver situaciones-emergencia.herokuapp.com:443
+web: gunicorn manage:app --log-file=-
+web: gunicorn remates_judiciales:wsgi --log-file -
